@@ -1,3 +1,0 @@
-streamlit
-pywhatkit
-random
