@@ -1,0 +1,5 @@
+streamlit
+pywhatkit
+pyautogui
+mouseinfo
+xvfbwrapper
